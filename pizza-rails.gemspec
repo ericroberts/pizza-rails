@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Pizza::Rails::VERSION
   spec.authors       = ["Eric Roberts"]
   spec.email         = ["ericroberts@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Pizza is a responsive pie, donut, bar, and line graph charting library based on the Snap SVG framework from Adobe. It focuses on easy integration via HTML markup and CSS instead of JavaScript objects, although you can pass JavaScript objects to Pizza as well.}
+  spec.summary       = %q{Rails wrapper for Pizza by Zurb}
   spec.homepage      = ""
   spec.license       = "MIT"
 
