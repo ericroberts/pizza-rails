@@ -1,12 +1,12 @@
 # Pizza::Rails
 
-TODO: Write a gem description
+Pizza is a responsive pie, donut, bar, and line graph charting library based on the Snap SVG framework from Adobe. It focuses on easy integration via HTML markup and CSS instead of JavaScript objects, although you can pass JavaScript objects to Pizza as well.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'pizza-rails'
+    gem 'pizza-rails', github: 'ericroberts/pizza-rails'
 
 And then execute:
 
@@ -18,7 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add the following to your application.js
+
+    //= require pizza
+
+See full docs at https://github.com/zurb/pizza
 
 ## Contributing
 
