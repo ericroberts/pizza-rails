@@ -8,7 +8,7 @@ http://zurb.com/playground/pizza-amore-charts-and-graphs
 
 Add this line to your application's Gemfile:
 
-    gem 'pizza-rails', github: 'ericroberts/pizza-rails'
+    gem 'pizza-rails'
 
 And then execute:
 
