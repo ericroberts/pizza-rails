@@ -2,6 +2,7 @@ require "pizza/rails/version"
 
 module Pizza
   module Rails
-    # Your code goes here...
+    class Engine < ::Rails::Engine
+    end
   end
 end
